@@ -1,0 +1,20 @@
+Assistant message: {
+  "id": "msg_2Wex4k025DFNPvxbIviKaecS",
+  "object": "thread.message",
+  "created_at": 1722812736,
+  "assistant_id": "asst_r1PHBj9acRCBrlkANe1Qo8RG",
+  "thread_id": "thread_sfZ9NJqOxpmILdocEz0drl2O",
+  "run_id": "run_NH2iTOnFyGQm8VsiHUjbq2ue",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "text",
+      "text": {
+        "value": "\"I just want what I can't have.\" ; \"You broke my heart, you broke my heart.\" ; \"I'm the same yellow boy that used to play up on Degrassi.\" ; \"When you're ready, just say you're ready.\" ; \"You're the fuckin' best.\"",
+        "annotations": []
+      }
+    }
+  ],
+  "attachments": [],
+  "metadata": {}
+}
